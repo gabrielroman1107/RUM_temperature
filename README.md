@@ -28,3 +28,5 @@ To implement this solution, we used the following tools and technologies:
 - Whois domain webservice
 
 This IoT solution provides an efficient way to monitor the temperature and occupancy of several rooms in the University of Puerto Rico - Mayaguez Campus. The data is easily accessible via Siri or a web interface, which allows users to quickly identify rooms that need adjustment in their temperature settings and maximum capacity.
+![RUMtemp_home](https://github.com/gabrielroman1107/RUM_temperature/assets/89166066/5fc68c63-f996-4cbb-8db9-2726ab4ab8e9)
+![RUMtemp_room](https://github.com/gabrielroman1107/RUM_temperature/assets/89166066/d5271aeb-feca-48f6-a74e-85547614fee2)
